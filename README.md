@@ -38,6 +38,10 @@ O mangue escolhe a expressão seguindo esta ordem de prioridade:
 3. Abra `FalaMangue/FalaMangue.ino`, escolha a placa e a porta e clique em **Carregar**.
 4. Abra o **Monitor Serial** em 9600 bps. Ao ligar, o protótipo roda um autodiagnóstico e diz quais componentes estão OK.
 
+## Testes
+
+- `testes/carinhas_rotacoes.h`: as 6 expressões em 4 rotações (0°, 90°, 180° e 270°), para descobrir em qual posição a matriz física foi montada. Depois de achar a rotação certa, troque os bitmaps do `FalaMangue.ino` pelos dessa rotação.
+
 ## Próximos passos
 
 O código já tem espaço reservado para comunicação externa (`receberDadosExternos`, `reagirRemotamente` e `enviarDados`), pensado para enviar as leituras a um app ou dashboard e para o fórum onde os estudantes trocam observações.
