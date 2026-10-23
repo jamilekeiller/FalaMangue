@@ -23,7 +23,7 @@ Projeto base do artigo **Mangue Interativo: prototipagem educacional orientada p
 - [Testes](#-testes)
 - [Problemas comuns](#️-problemas-comuns)
 - [Roadmap](#️-roadmap)
-- [Autora](#-autora)
+- [Autoras](#-autoras)
 
 ## 👀 Visão geral
 
@@ -184,6 +184,7 @@ Os testes usam pinos diferentes do código principal. Ligue o componente nos pin
 - 🔄 Receber comandos de fora, como mostrar uma expressão a distância (`receberDadosExternos` e `reagirRemotamente`)
 - 📋 Integrar com o fórum onde os estudantes trocam observações
 
-## 👩‍💻 Autora
+## 👩‍💻 Autoras
 
-**Jamile Keiller**: [@jamilekeiller](https://github.com/jamilekeiller) · [LinkedIn](https://www.linkedin.com/in/jamilekeiller)
+- **Jamile Keiller**: [@jamilekeiller](https://github.com/jamilekeiller) · [LinkedIn](https://www.linkedin.com/in/jamilekeiller)
+- **Cássia Lucena**: [@Cassia2407](https://github.com/Cassia2407) · [LinkedIn](https://www.linkedin.com/in/c%C3%A1ssia-lucena-9142853b7/)
